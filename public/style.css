@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#box-container {
+  border: 1px solid rgb(182, 176, 176);
+  height: 90vh;
+  /* border-left: none;
+  border-right: none; */
+  width: 99%;
+  /* margin: auto; */
+  position: relative;
+}
+.banner {
+  text-align: center;
+}
+.ball-count {
+  font-size: 24px;
+  text-align: center;
+}
